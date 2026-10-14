@@ -1,0 +1,6 @@
+# iCESugar V1.5 (iCE40UP5K-SG48) - TM1638 LED & Key module on PMOD1
+set_io clock  35   # 12 MHz on-board clock
+
+set_io tm_cs  9    # STB -> PMOD1 pin 12 (P1_12)
+set_io tm_clk 4    # CLK -> PMOD1 pin 11 (P1_11)
+set_io tm_dio 2    # DIO -> PMOD1 pin 10 (P1_10)
