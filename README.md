@@ -89,7 +89,7 @@ template dan tidak dipakai oleh project ini.
 
 ## Video demo
 
-Link video: _(isi dengan link video demo)_
+Link video: https://drive.google.com/file/d/1SbYr0pPlomKO_-PGLfkC3F8QeXpLpKwR/view?usp=sharing
 
 ## Catatan
 
